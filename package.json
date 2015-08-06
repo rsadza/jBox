@@ -19,6 +19,7 @@
     "name": "Stephan Wagner",
     "url": "http://stephanwagner.me"
   },
+  "main": "Source/jBox.js",
   "docs": "http://stephanwagner.me/jBox/documentation",
   "bugs": {
     "url": "https://github.com/StephanWagner/jBox/issues"
