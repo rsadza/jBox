@@ -20,6 +20,10 @@
     "url": "http://stephanwagner.me"
   },
   "main": "Source/jBox.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rsadza/jBox.git"
+  },
   "docs": "http://stephanwagner.me/jBox/documentation",
   "bugs": {
     "url": "https://github.com/StephanWagner/jBox/issues"
